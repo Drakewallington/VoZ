@@ -1,0 +1,2 @@
+# VoZ
+Visions of Zosimos is a game that combines a collectible card game and turn-based tactical tabletop wargame while also harnessing the social aspects of a massively multi-player online game. The story brings players in as students of the mystic traditions of Hermetic Alchemy and Gnosticism; their actions will discover the hidden secrets of our world while battling for the fate of our universe.
